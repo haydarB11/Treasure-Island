@@ -1,0 +1,5 @@
+{
+	"user_type": ["user", "manager", "supervisor"],
+    "status": ["pending", "winner", "looser"],
+    "type": ["turbo", "audience"]
+}
